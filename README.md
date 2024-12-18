@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3fadc85e-6841-418e-bc13-47c9de387251)
+![EMPD](https://github.com/user-attachments/assets/a8c82718-bea0-4b8b-9615-45ca77ae5ae7)
 
 
 ### Name:DAKSHATA G
